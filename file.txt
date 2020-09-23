@@ -1,1 +1,2 @@
-This is a text file and the first version.
+This is a text file and the second version.
+This is a new line of code.
